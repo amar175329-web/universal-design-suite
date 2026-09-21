@@ -1,0 +1,8 @@
+{
+  "canonical_id": "security-and-hardening",
+  "original_name": "security-and-hardening",
+  "source_repo": "penpot__penpot",
+  "source_path": ".agents/skills/security-and-hardening/SKILL.md",
+  "license": "MPL-2.0",
+  "content_hash": "91bd453a30afb5d4fdd36bd7f82f972c54eaff917ceff97406effe9fdd2d0c08"
+}

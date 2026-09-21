@@ -1,0 +1,8 @@
+{
+  "canonical_id": "plugin-settings",
+  "original_name": "Plugin Settings",
+  "source_repo": "anthropics__claude-code",
+  "source_path": "plugins/plugin-dev/skills/plugin-settings/SKILL.md",
+  "license": "\u00a9 Anthropic PBC. All rights re",
+  "content_hash": "03edd6f2bbf2499468e9ee8cfb75b34b4fbe04dd43b9133d94920db71459306d"
+}

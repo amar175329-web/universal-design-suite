@@ -1,0 +1,19 @@
+{
+  "id": "plugin-copilotkit",
+  "name": "CopilotKit Agentic UI",
+  "version": "1.73.0",
+  "description": "Agent-aware UI components, multimodal normalization, and contextual chat interfaces.",
+  "skills": [
+    "copilotkit"
+  ],
+  "mcp": {
+    "name": "copilotkit-docs",
+    "serverUrl": "https://mcp.copilotkit.ai/mcp"
+  },
+  "cli": {
+    "name": "fast-cdk",
+    "npm": "fast-cdk"
+  },
+  "provenance": "CopilotKit__CopilotKit",
+  "license": "MIT"
+}

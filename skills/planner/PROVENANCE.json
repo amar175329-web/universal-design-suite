@@ -1,0 +1,8 @@
+{
+  "canonical_id": "planner",
+  "original_name": "planner",
+  "source_repo": "penpot__penpot",
+  "source_path": ".agents/skills/planner/SKILL.md",
+  "license": "MPL-2.0",
+  "content_hash": "c847dd3edb00503d32351698a838bf845a6fe413a2b9302d5d916554d274b420"
+}

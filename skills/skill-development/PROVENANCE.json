@@ -1,0 +1,8 @@
+{
+  "canonical_id": "skill-development",
+  "original_name": "Skill Development",
+  "source_repo": "anthropics__claude-code",
+  "source_path": "plugins/plugin-dev/skills/skill-development/SKILL.md",
+  "license": "\u00a9 Anthropic PBC. All rights re",
+  "content_hash": "d40080c45d652dd3cc481d1e381cd7e6258091a87351fa1de67c6c8ecec3446e"
+}

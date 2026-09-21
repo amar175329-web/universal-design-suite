@@ -1,0 +1,15 @@
+{
+  "type": "local-node",
+  "entrypoint": "mcps/magicui-mcp/dist/server.js",
+  "command": "node",
+  "args": [
+    "mcps/magicui-mcp/dist/server.js"
+  ],
+  "description": "MagicUI local component registry & search MCP server",
+  "source": "magicuidesign__magicui",
+  "license": "MIT",
+  "auth_required": false,
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "canonical_id": "command-development",
+  "original_name": "Command Development",
+  "source_repo": "anthropics__claude-code",
+  "source_path": "plugins/plugin-dev/skills/command-development/SKILL.md",
+  "license": "\u00a9 Anthropic PBC. All rights re",
+  "content_hash": "cf4372aa8f5e86ef0b587aa3703b4af9b22996e0dc7fd0ea6ffae49770136a2a"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "plugin-penpot",
+  "name": "Penpot Design System Engine",
+  "version": "2.17.0",
+  "description": "Design tokens, color palette generation, contrast checks, and Penpot MCP connectivity.",
+  "skills": [
+    "penpot-tokens",
+    "penpot-contrast",
+    "penpot-palette"
+  ],
+  "mcp": {
+    "name": "penpot-mcp",
+    "command": "npx @penpot/mcp"
+  },
+  "provenance": "penpot__penpot",
+  "license": "MPL-2.0"
+}

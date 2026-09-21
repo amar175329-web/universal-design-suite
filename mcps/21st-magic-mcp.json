@@ -1,0 +1,15 @@
+{
+  "type": "local-node",
+  "entrypoint": "mcps/21st-magic-mcp/dist/index.js",
+  "command": "node",
+  "args": [
+    "mcps/21st-magic-mcp/dist/index.js"
+  ],
+  "description": "21st.dev Magic local MCP server for AI component generation",
+  "source": "21st-dev__magic-mcp",
+  "license": "MIT",
+  "auth_required": false,
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

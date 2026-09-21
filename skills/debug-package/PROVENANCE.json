@@ -1,0 +1,8 @@
+{
+  "canonical_id": "debug-package",
+  "original_name": "debug-package",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/debug-package/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "09a5455eeb3931e5c794df0f41e39128cf32bc08d63a73924cb88d4012a03300"
+}

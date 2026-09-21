@@ -1,0 +1,8 @@
+{
+  "canonical_id": "tool-ui",
+  "original_name": "tool-ui",
+  "source_repo": "assistant-ui__tool-ui",
+  "source_path": "packages/agent/plugin/skills/tool-ui/SKILL.md",
+  "license": "MIT",
+  "content_hash": "06536a54fae879bad28437b948d583593982302933aa0a3bacc79539b8030218"
+}

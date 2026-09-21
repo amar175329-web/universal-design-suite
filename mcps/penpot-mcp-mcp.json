@@ -1,0 +1,12 @@
+{
+  "type": "npx-runner",
+  "command": "npx",
+  "args": [
+    "-y",
+    "@penpot/mcp"
+  ],
+  "description": "Penpot design inspection and token generation MCP server",
+  "source": "penpot__penpot",
+  "license": "MPL-2.0",
+  "auth_required": false
+}

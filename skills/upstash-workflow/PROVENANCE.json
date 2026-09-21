@@ -1,0 +1,8 @@
+{
+  "canonical_id": "upstash-workflow",
+  "original_name": "upstash-workflow",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/upstash-workflow/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "da4c5bec3933ec52b07fb1a3007268f0c32515bca9686615de15ddaf8841dddc"
+}

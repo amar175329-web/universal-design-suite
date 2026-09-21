@@ -1,0 +1,8 @@
+{
+  "canonical_id": "db-migrations",
+  "original_name": "db-migrations",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/db-migrations/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "3f829464c3fc78c895fc9e1802059914afcb6ba1dbd15a6ebc5669db4da15c73"
+}

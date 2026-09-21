@@ -1,0 +1,18 @@
+{
+  "id": "plugin-claude-workflow",
+  "name": "Claude Code Workflow Suite",
+  "version": "1.1.0",
+  "description": "Code review, git commit orchestration, feature development, and frontend design guidelines.",
+  "skills": [
+    "frontend-design",
+    "code-review",
+    "commit-commands",
+    "feature-dev"
+  ],
+  "commands": [
+    "/audit",
+    "/polish"
+  ],
+  "provenance": "anthropics__claude-code",
+  "license": "Proprietary-Anthropic (Clean-Room Adapter)"
+}

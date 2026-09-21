@@ -1,0 +1,8 @@
+{
+  "canonical_id": "resolve-git-conflicts",
+  "original_name": "resolve-git-conflicts",
+  "source_repo": "penpot__penpot",
+  "source_path": ".agents/skills/resolve-git-conflicts/SKILL.md",
+  "license": "MPL-2.0",
+  "content_hash": "e766f49025e518d12b5ad0f5db509c0ea6cff876adf70a0ce2719f222181230a"
+}

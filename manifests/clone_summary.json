@@ -1,0 +1,578 @@
+[
+  {
+    "slug": "VoltAgent/official-design-md",
+    "owner": "VoltAgent",
+    "repo": "official-design-md",
+    "target_dir": "VoltAgent__official-design-md",
+    "status": "SUCCESS",
+    "duration_sec": 0.4,
+    "error": null
+  },
+  {
+    "slug": "anthropics/skills",
+    "owner": "anthropics",
+    "repo": "skills",
+    "target_dir": "anthropics__skills",
+    "status": "SUCCESS",
+    "duration_sec": 0.72,
+    "error": null
+  },
+  {
+    "slug": "VoltAgent/awesome-design-md",
+    "owner": "VoltAgent",
+    "repo": "awesome-design-md",
+    "target_dir": "VoltAgent__awesome-design-md",
+    "status": "SUCCESS",
+    "duration_sec": 1.07,
+    "error": null
+  },
+  {
+    "slug": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "owner": "nextlevelbuilder",
+    "repo": "ui-ux-pro-max-skill",
+    "target_dir": "nextlevelbuilder__ui-ux-pro-max-skill",
+    "status": "SUCCESS",
+    "duration_sec": 1.15,
+    "error": null
+  },
+  {
+    "slug": "anthropics/claude-code",
+    "owner": "anthropics",
+    "repo": "claude-code",
+    "target_dir": "anthropics__claude-code",
+    "status": "SUCCESS",
+    "duration_sec": 1.17,
+    "error": null
+  },
+  {
+    "slug": "tailwindlabs/headlessui",
+    "owner": "tailwindlabs",
+    "repo": "headlessui",
+    "target_dir": "tailwindlabs__headlessui",
+    "status": "SUCCESS",
+    "duration_sec": 0.69,
+    "error": null
+  },
+  {
+    "slug": "tailwindlabs/tailwindcss",
+    "owner": "tailwindlabs",
+    "repo": "tailwindcss",
+    "target_dir": "tailwindlabs__tailwindcss",
+    "status": "SUCCESS",
+    "duration_sec": 0.78,
+    "error": null
+  },
+  {
+    "slug": "radix-ui/primitives",
+    "owner": "radix-ui",
+    "repo": "primitives",
+    "target_dir": "radix-ui__primitives",
+    "status": "SUCCESS",
+    "duration_sec": 0.75,
+    "error": null
+  },
+  {
+    "slug": "pbakaus/impeccable",
+    "owner": "pbakaus",
+    "repo": "impeccable",
+    "target_dir": "pbakaus__impeccable",
+    "status": "SUCCESS",
+    "duration_sec": 2.0,
+    "error": null
+  },
+  {
+    "slug": "heroui-inc/heroui-native",
+    "owner": "heroui-inc",
+    "repo": "heroui-native",
+    "target_dir": "heroui-inc__heroui-native",
+    "status": "SUCCESS",
+    "duration_sec": 1.28,
+    "error": null
+  },
+  {
+    "slug": "shadcn-ui/ui",
+    "owner": "shadcn-ui",
+    "repo": "ui",
+    "target_dir": "shadcn-ui__ui",
+    "status": "SUCCESS",
+    "duration_sec": 2.79,
+    "error": null
+  },
+  {
+    "slug": "cosscom/coss",
+    "owner": "cosscom",
+    "repo": "coss",
+    "target_dir": "cosscom__coss",
+    "status": "SUCCESS",
+    "duration_sec": 1.67,
+    "error": null
+  },
+  {
+    "slug": "mui/base-ui",
+    "owner": "mui",
+    "repo": "base-ui",
+    "target_dir": "mui__base-ui",
+    "status": "SUCCESS",
+    "duration_sec": 1.9,
+    "error": null
+  },
+  {
+    "slug": "mantinedev/ui.mantine.dev",
+    "owner": "mantinedev",
+    "repo": "ui.mantine.dev",
+    "target_dir": "mantinedev__ui.mantine.dev",
+    "status": "SUCCESS",
+    "duration_sec": 0.64,
+    "error": null
+  },
+  {
+    "slug": "heroui-inc/heroui",
+    "owner": "heroui-inc",
+    "repo": "heroui",
+    "target_dir": "heroui-inc__heroui",
+    "status": "SUCCESS",
+    "duration_sec": 2.55,
+    "error": null
+  },
+  {
+    "slug": "magicuidesign/mcp",
+    "owner": "magicuidesign",
+    "repo": "mcp",
+    "target_dir": "magicuidesign__mcp",
+    "status": "SUCCESS",
+    "duration_sec": 0.43,
+    "error": null
+  },
+  {
+    "slug": "themesberg/flowbite",
+    "owner": "themesberg",
+    "repo": "flowbite",
+    "target_dir": "themesberg__flowbite",
+    "status": "SUCCESS",
+    "duration_sec": 1.39,
+    "error": null
+  },
+  {
+    "slug": "magicuidesign/magicui",
+    "owner": "magicuidesign",
+    "repo": "magicui",
+    "target_dir": "magicuidesign__magicui",
+    "status": "SUCCESS",
+    "duration_sec": 1.81,
+    "error": null
+  },
+  {
+    "slug": "mantinedev/mantine",
+    "owner": "mantinedev",
+    "repo": "mantine",
+    "target_dir": "mantinedev__mantine",
+    "status": "SUCCESS",
+    "duration_sec": 2.51,
+    "error": null
+  },
+  {
+    "slug": "darkroomengineering/lenis",
+    "owner": "darkroomengineering",
+    "repo": "lenis",
+    "target_dir": "darkroomengineering__lenis",
+    "status": "SUCCESS",
+    "duration_sec": 0.93,
+    "error": null
+  },
+  {
+    "slug": "emilkowalski/sonner",
+    "owner": "emilkowalski",
+    "repo": "sonner",
+    "target_dir": "emilkowalski__sonner",
+    "status": "SUCCESS",
+    "duration_sec": 0.42,
+    "error": null
+  },
+  {
+    "slug": "bvaughn/react-resizable-panels",
+    "owner": "bvaughn",
+    "repo": "react-resizable-panels",
+    "target_dir": "bvaughn__react-resizable-panels",
+    "status": "SUCCESS",
+    "duration_sec": 0.54,
+    "error": null
+  },
+  {
+    "slug": "bokuweb/react-rnd",
+    "owner": "bokuweb",
+    "repo": "react-rnd",
+    "target_dir": "bokuweb__react-rnd",
+    "status": "SUCCESS",
+    "duration_sec": 0.45,
+    "error": null
+  },
+  {
+    "slug": "pacocoursey/cmdk",
+    "owner": "pacocoursey",
+    "repo": "cmdk",
+    "target_dir": "pacocoursey__cmdk",
+    "status": "SUCCESS",
+    "duration_sec": 0.51,
+    "error": null
+  },
+  {
+    "slug": "floating-ui/floating-ui",
+    "owner": "floating-ui",
+    "repo": "floating-ui",
+    "target_dir": "floating-ui__floating-ui",
+    "status": "SUCCESS",
+    "duration_sec": 1.66,
+    "error": null
+  },
+  {
+    "slug": "lucide-icons/lucide",
+    "owner": "lucide-icons",
+    "repo": "lucide",
+    "target_dir": "lucide-icons__lucide",
+    "status": "SUCCESS",
+    "duration_sec": 2.74,
+    "error": null
+  },
+  {
+    "slug": "assistant-ui/tool-ui",
+    "owner": "assistant-ui",
+    "repo": "tool-ui",
+    "target_dir": "assistant-ui__tool-ui",
+    "status": "SUCCESS",
+    "duration_sec": 1.72,
+    "error": null
+  },
+  {
+    "slug": "airbnb/lottie-web",
+    "owner": "airbnb",
+    "repo": "lottie-web",
+    "target_dir": "airbnb__lottie-web",
+    "status": "SUCCESS",
+    "duration_sec": 4.09,
+    "error": null
+  },
+  {
+    "slug": "assistant-ui/assistant-ui",
+    "owner": "assistant-ui",
+    "repo": "assistant-ui",
+    "target_dir": "assistant-ui__assistant-ui",
+    "status": "SUCCESS",
+    "duration_sec": 6.53,
+    "error": null
+  },
+  {
+    "slug": "DavidHDev/react-bits",
+    "owner": "DavidHDev",
+    "repo": "react-bits",
+    "target_dir": "DavidHDev__react-bits",
+    "status": "SUCCESS",
+    "duration_sec": 10.14,
+    "error": null
+  },
+  {
+    "slug": "nextjs/saas-starter",
+    "owner": "nextjs",
+    "repo": "saas-starter",
+    "target_dir": "nextjs__saas-starter",
+    "status": "SUCCESS",
+    "duration_sec": 1.2,
+    "error": null
+  },
+  {
+    "slug": "pmndrs/react-three-fiber",
+    "owner": "pmndrs",
+    "repo": "react-three-fiber",
+    "target_dir": "pmndrs__react-three-fiber",
+    "status": "SUCCESS",
+    "duration_sec": 0.76,
+    "error": null
+  },
+  {
+    "slug": "pmndrs/react-three-flex",
+    "owner": "pmndrs",
+    "repo": "react-three-flex",
+    "target_dir": "pmndrs__react-three-flex",
+    "status": "SUCCESS",
+    "duration_sec": 1.36,
+    "error": null
+  },
+  {
+    "slug": "dmaring/macrometric",
+    "owner": "dmaring",
+    "repo": "macrometric",
+    "target_dir": "dmaring__macrometric",
+    "status": "SUCCESS",
+    "duration_sec": 1.44,
+    "error": null
+  },
+  {
+    "slug": "pmndrs/drei",
+    "owner": "pmndrs",
+    "repo": "drei",
+    "target_dir": "pmndrs__drei",
+    "status": "SUCCESS",
+    "duration_sec": 3.09,
+    "error": null
+  },
+  {
+    "slug": "dutta-sujoy/Akilo",
+    "owner": "dutta-sujoy",
+    "repo": "Akilo",
+    "target_dir": "dutta-sujoy__Akilo",
+    "status": "SUCCESS",
+    "duration_sec": 0.45,
+    "error": null
+  },
+  {
+    "slug": "Abdulla1x/Macros-Calculator",
+    "owner": "Abdulla1x",
+    "repo": "Macros-Calculator",
+    "target_dir": "Abdulla1x__Macros-Calculator",
+    "status": "SUCCESS",
+    "duration_sec": 0.99,
+    "error": null
+  },
+  {
+    "slug": "hemati/tonnd",
+    "owner": "hemati",
+    "repo": "tonnd",
+    "target_dir": "hemati__tonnd",
+    "status": "SUCCESS",
+    "duration_sec": 0.69,
+    "error": null
+  },
+  {
+    "slug": "JaveedIshaq/fitness-tracker-dashboard-development",
+    "owner": "JaveedIshaq",
+    "repo": "fitness-tracker-dashboard-development",
+    "target_dir": "JaveedIshaq__fitness-tracker-dashboard-development",
+    "status": "SUCCESS",
+    "duration_sec": 0.51,
+    "error": null
+  },
+  {
+    "slug": "penpot/penpot",
+    "owner": "penpot",
+    "repo": "penpot",
+    "target_dir": "penpot__penpot",
+    "status": "SUCCESS",
+    "duration_sec": 19.98,
+    "error": null
+  },
+  {
+    "slug": "AnkanMisra/Nutrition-Tracker",
+    "owner": "AnkanMisra",
+    "repo": "Nutrition-Tracker",
+    "target_dir": "AnkanMisra__Nutrition-Tracker",
+    "status": "SUCCESS",
+    "duration_sec": 1.08,
+    "error": null
+  },
+  {
+    "slug": "tremorlabs/tremor-npm",
+    "owner": "tremorlabs",
+    "repo": "tremor-npm",
+    "target_dir": "tremorlabs__tremor-npm",
+    "status": "SUCCESS",
+    "duration_sec": 0.66,
+    "error": null
+  },
+  {
+    "slug": "tremorlabs/tremor",
+    "owner": "tremorlabs",
+    "repo": "tremor",
+    "target_dir": "tremorlabs__tremor",
+    "status": "SUCCESS",
+    "duration_sec": 0.69,
+    "error": null
+  },
+  {
+    "slug": "Leaflet/Leaflet",
+    "owner": "Leaflet",
+    "repo": "Leaflet",
+    "target_dir": "Leaflet__Leaflet",
+    "status": "SUCCESS",
+    "duration_sec": 2.0,
+    "error": null
+  },
+  {
+    "slug": "CopilotKit/CopilotKit",
+    "owner": "CopilotKit",
+    "repo": "CopilotKit",
+    "target_dir": "CopilotKit__CopilotKit",
+    "status": "SUCCESS",
+    "duration_sec": 12.41,
+    "error": null
+  },
+  {
+    "slug": "motiondivision/motion",
+    "owner": "motiondivision",
+    "repo": "motion",
+    "target_dir": "motiondivision__motion",
+    "status": "SUCCESS",
+    "duration_sec": 19.15,
+    "error": null
+  },
+  {
+    "slug": "satnaing/shadcn-admin",
+    "owner": "satnaing",
+    "repo": "shadcn-admin",
+    "target_dir": "satnaing__shadcn-admin",
+    "status": "SUCCESS",
+    "duration_sec": 0.87,
+    "error": null
+  },
+  {
+    "slug": "visgl/react-map-gl",
+    "owner": "visgl",
+    "repo": "react-map-gl",
+    "target_dir": "visgl__react-map-gl",
+    "status": "SUCCESS",
+    "duration_sec": 1.2,
+    "error": null
+  },
+  {
+    "slug": "Kiranism/next-shadcn-dashboard-starter",
+    "owner": "Kiranism",
+    "repo": "next-shadcn-dashboard-starter",
+    "target_dir": "Kiranism__next-shadcn-dashboard-starter",
+    "status": "SUCCESS",
+    "duration_sec": 1.27,
+    "error": null
+  },
+  {
+    "slug": "kachamo/SkillUI",
+    "owner": "kachamo",
+    "repo": "SkillUI",
+    "target_dir": "kachamo__SkillUI",
+    "status": "SUCCESS",
+    "duration_sec": 0.95,
+    "error": null
+  },
+  {
+    "slug": "stacklok/toolhive-cloud-ui",
+    "owner": "stacklok",
+    "repo": "toolhive-cloud-ui",
+    "target_dir": "stacklok__toolhive-cloud-ui",
+    "status": "SUCCESS",
+    "duration_sec": 1.14,
+    "error": null
+  },
+  {
+    "slug": "Leonxlnx/taste-skill",
+    "owner": "Leonxlnx",
+    "repo": "taste-skill",
+    "target_dir": "Leonxlnx__taste-skill",
+    "status": "SUCCESS",
+    "duration_sec": 0.65,
+    "error": null
+  },
+  {
+    "slug": "robonuggets/gauntlet-loop",
+    "owner": "robonuggets",
+    "repo": "gauntlet-loop",
+    "target_dir": "robonuggets__gauntlet-loop",
+    "status": "SUCCESS",
+    "duration_sec": 0.43,
+    "error": null
+  },
+  {
+    "slug": "cal1888/claude-code-skills",
+    "owner": "cal1888",
+    "repo": "claude-code-skills",
+    "target_dir": "cal1888__claude-code-skills",
+    "status": "SUCCESS",
+    "duration_sec": 0.81,
+    "error": null
+  },
+  {
+    "slug": "chenthedigger/taste-skill",
+    "owner": "chenthedigger",
+    "repo": "taste-skill",
+    "target_dir": "chenthedigger__taste-skill",
+    "status": "SUCCESS",
+    "duration_sec": 0.97,
+    "error": null
+  },
+  {
+    "slug": "microsoft/playwright-cli",
+    "owner": "microsoft",
+    "repo": "playwright-cli",
+    "target_dir": "microsoft__playwright-cli",
+    "status": "SUCCESS",
+    "duration_sec": 0.42,
+    "error": null
+  },
+  {
+    "slug": "21st-dev/claude-code-plugin",
+    "owner": "21st-dev",
+    "repo": "claude-code-plugin",
+    "target_dir": "21st-dev__claude-code-plugin",
+    "status": "SUCCESS",
+    "duration_sec": 1.33,
+    "error": null
+  },
+  {
+    "slug": "21st-dev/skill",
+    "owner": "21st-dev",
+    "repo": "skill",
+    "target_dir": "21st-dev__skill",
+    "status": "SUCCESS",
+    "duration_sec": 0.98,
+    "error": null
+  },
+  {
+    "slug": "nateherkai/scroll-craft",
+    "owner": "nateherkai",
+    "repo": "scroll-craft",
+    "target_dir": "nateherkai__scroll-craft",
+    "status": "SUCCESS",
+    "duration_sec": 1.56,
+    "error": null
+  },
+  {
+    "slug": "21st-dev/magic-mcp",
+    "owner": "21st-dev",
+    "repo": "magic-mcp",
+    "target_dir": "21st-dev__magic-mcp",
+    "status": "SUCCESS",
+    "duration_sec": 0.43,
+    "error": null
+  },
+  {
+    "slug": "Nanako0129/sepia",
+    "owner": "Nanako0129",
+    "repo": "sepia",
+    "target_dir": "Nanako0129__sepia",
+    "status": "SUCCESS",
+    "duration_sec": 1.45,
+    "error": null
+  },
+  {
+    "slug": "lobehub/lobe-chat",
+    "owner": "lobehub",
+    "repo": "lobe-chat",
+    "target_dir": "lobehub__lobe-chat",
+    "status": "SUCCESS",
+    "duration_sec": 18.28,
+    "error": null
+  },
+  {
+    "slug": "recharts/recharts",
+    "owner": "recharts",
+    "repo": "recharts",
+    "target_dir": "recharts__recharts",
+    "status": "SUCCESS",
+    "duration_sec": 10.66,
+    "error": null
+  },
+  {
+    "slug": "maplibre/maplibre-gl-js",
+    "owner": "maplibre",
+    "repo": "maplibre-gl-js",
+    "target_dir": "maplibre__maplibre-gl-js",
+    "status": "SUCCESS",
+    "duration_sec": 10.78,
+    "error": null
+  }
+]

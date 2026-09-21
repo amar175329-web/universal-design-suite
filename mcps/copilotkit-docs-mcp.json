@@ -1,0 +1,8 @@
+{
+  "type": "remote-sse",
+  "serverUrl": "https://mcp.copilotkit.ai/mcp",
+  "description": "CopilotKit official remote MCP documentation server",
+  "source": "CopilotKit__CopilotKit",
+  "license": "MIT",
+  "auth_required": false
+}

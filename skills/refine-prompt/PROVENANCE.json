@@ -1,0 +1,8 @@
+{
+  "canonical_id": "refine-prompt",
+  "original_name": "refine-prompt",
+  "source_repo": "penpot__penpot",
+  "source_path": ".agents/skills/refine-prompt/SKILL.md",
+  "license": "MPL-2.0",
+  "content_hash": "f318ec3aa620f886f220be4fe30e86b7ed8363e3a18232e35276112ecb41a087"
+}

@@ -1,0 +1,8 @@
+{
+  "canonical_id": "cleanup-git-worktrees",
+  "original_name": "cleanup-git-worktrees",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/cleanup-git-worktrees/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "52c5b163754ce988026b7fcb9c55f05d6a191744ac44a692a7bad55e26dd23b8"
+}

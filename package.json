@@ -1,0 +1,34 @@
+{
+  "name": "universal-design-suite",
+  "version": "1.0.0",
+  "description": "Universal Design Suite: 64+ source repositories, 292 unique canonical skills, 12 plugins, 6 MCPs, 10 CLIs, 24 design commands, 74 design systems.",
+  "main": "install.mjs",
+  "type": "module",
+  "bin": {
+    "universal-design-suite": "./install.mjs"
+  },
+  "scripts": {
+    "install:all": "node install.mjs --all",
+    "test": "node tests/verify-suite.mjs",
+    "audit": "node scripts/audit-suite.mjs"
+  },
+  "keywords": [
+    "design-engineering",
+    "ui-ux",
+    "antigravity",
+    "claude-code",
+    "skills",
+    "plugins",
+    "mcps",
+    "design-systems",
+    "impeccable",
+    "ui-ux-pro-max",
+    "taste",
+    "scrollcraft"
+  ],
+  "author": "Universal Design Engineering Consortium",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

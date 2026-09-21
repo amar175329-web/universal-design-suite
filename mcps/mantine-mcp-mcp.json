@@ -1,0 +1,12 @@
+{
+  "type": "npx-runner",
+  "command": "npx",
+  "args": [
+    "-y",
+    "@mantine/mcp-server"
+  ],
+  "description": "Mantine UI component registry and documentation MCP server",
+  "source": "mantinedev__mantine",
+  "license": "MIT",
+  "auth_required": false
+}

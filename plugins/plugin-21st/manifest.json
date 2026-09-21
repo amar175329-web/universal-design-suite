@@ -1,0 +1,30 @@
+{
+  "id": "plugin-21st",
+  "name": "21st.dev Design Engine",
+  "version": "0.4.1",
+  "description": "AI-assisted UI component discovery, visual generation, and sync engine.",
+  "skills": [
+    "21st-ai",
+    "21st-cli-use",
+    "21st-design-sync",
+    "21st-registry",
+    "21st-ui",
+    "21st-ui-build",
+    "21st-ui-explore",
+    "21st-ui-review"
+  ],
+  "commands": [
+    "/explore",
+    "/sync"
+  ],
+  "mcp": {
+    "name": "21st-magic",
+    "command": "node mcps/21st-magic-mcp/dist/index.js"
+  },
+  "cli": {
+    "name": "magic",
+    "npm": "@21st-dev/magic"
+  },
+  "provenance": "21st-dev__claude-code-plugin",
+  "license": "MIT"
+}

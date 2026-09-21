@@ -1,0 +1,82 @@
+# Catalog of Reference Design Systems
+
+Source:  and 
+
+These design systems serve as study and reference material for typography, spacing, palettes, tokens, and visual cadence.
+
+## Available Design System References
+
+- **Airbnb**: 
+- **Airtable**: 
+- **Apple**: 
+- **Binance**: 
+- **Bmw**: 
+- **Bmw-m**: 
+- **Bugatti**: 
+- **Cal**: 
+- **Claude**: 
+- **Clay**: 
+- **Clickhouse**: 
+- **Cohere**: 
+- **Coinbase**: 
+- **Composio**: 
+- **Cursor**: 
+- **Dell-1996**: 
+- **Elevenlabs**: 
+- **Expo**: 
+- **Ferrari**: 
+- **Figma**: 
+- **Framer**: 
+- **Hashicorp**: 
+- **Hp**: 
+- **Ibm**: 
+- **Intercom**: 
+- **Kraken**: 
+- **Lamborghini**: 
+- **Linear.app**: 
+- **Lovable**: 
+- **Mastercard**: 
+- **Meta**: 
+- **Minimax**: 
+- **Mintlify**: 
+- **Miro**: 
+- **Mistral.ai**: 
+- **Mongodb**: 
+- **Nike**: 
+- **Nintendo-2001**: 
+- **Notion**: 
+- **Nvidia**: 
+- **Ollama**: 
+- **Opencode.ai**: 
+- **Pinterest**: 
+- **Playstation**: 
+- **Posthog**: 
+- **Raycast**: 
+- **Renault**: 
+- **Replicate**: 
+- **Resend**: 
+- **Revolut**: 
+- **Runwayml**: 
+- **Sanity**: 
+- **Sentry**: 
+- **Shopify**: 
+- **Slack**: 
+- **Spacex**: 
+- **Spotify**: 
+- **Starbucks**: 
+- **Stripe**: 
+- **Supabase**: 
+- **Superhuman**: 
+- **Tesla**: 
+- **Theverge**: 
+- **Together.ai**: 
+- **Uber**: 
+- **Vercel**: 
+- **Vodafone**: 
+- **Voltagent**: 
+- **Warp**: 
+- **Webflow**: 
+- **Wired**: 
+- **Wise**: 
+- **X.ai**: 
+- **Zapier**: 

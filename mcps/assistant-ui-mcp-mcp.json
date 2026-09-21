@@ -1,0 +1,12 @@
+{
+  "type": "npx-runner",
+  "command": "npx",
+  "args": [
+    "-y",
+    "@assistant-ui/mcp-docs-server"
+  ],
+  "description": "Assistant UI component schemas and documentation MCP server",
+  "source": "assistant-ui__assistant-ui",
+  "license": "MIT",
+  "auth_required": false
+}

@@ -1,0 +1,8 @@
+{
+  "canonical_id": "agent-development",
+  "original_name": "Agent Development",
+  "source_repo": "anthropics__claude-code",
+  "source_path": "plugins/plugin-dev/skills/agent-development/SKILL.md",
+  "license": "\u00a9 Anthropic PBC. All rights re",
+  "content_hash": "ff3324078bbeef3e214157391795360e148892e9c6735f1fc049f397aa939c80"
+}

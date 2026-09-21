@@ -1,0 +1,8 @@
+{
+  "canonical_id": "local-ci",
+  "original_name": "local-ci",
+  "source_repo": "penpot__penpot",
+  "source_path": ".agents/skills/local-ci/SKILL.md",
+  "license": "MPL-2.0",
+  "content_hash": "a790038976e9873b1fce139cd945a2b2a808de95caab14d8a8466aeae338aab1"
+}

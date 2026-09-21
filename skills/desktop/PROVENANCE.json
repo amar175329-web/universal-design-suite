@@ -1,0 +1,8 @@
+{
+  "canonical_id": "desktop",
+  "original_name": "desktop",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/desktop/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "c4f757027d23b25c16ef08de7ae8f3612ae507e3bc3310faac367b64d2a07ed1"
+}

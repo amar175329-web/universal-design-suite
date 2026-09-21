@@ -1,0 +1,8 @@
+{
+  "canonical_id": "response-compliance",
+  "original_name": "response-compliance",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/response-compliance/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "10fc50988820ca7435182ef4e3f6e44e70d37929a16fba9dc252cd93c8bfd1d7"
+}

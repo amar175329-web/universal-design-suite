@@ -1,0 +1,8 @@
+{
+  "canonical_id": "jq-json-processor",
+  "original_name": "jq-json-processor",
+  "source_repo": "penpot__penpot",
+  "source_path": ".agents/skills/jq-json-processor/SKILL.md",
+  "license": "MPL-2.0",
+  "content_hash": "d9e696edfdec93316b26ed72cbf322cad695424cd0c51a539ad05ccb57d3d204"
+}

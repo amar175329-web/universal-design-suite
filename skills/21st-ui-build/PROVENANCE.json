@@ -1,0 +1,8 @@
+{
+  "canonical_id": "21st-ui-build",
+  "original_name": "21st-ui-build",
+  "source_repo": "21st-dev__claude-code-plugin",
+  "source_path": "plugins/21st/skills/21st-ui-build/SKILL.md",
+  "license": "Apache-2.0",
+  "content_hash": "151dbc3e97289a4ba945438f6552c0f597a40d8b5b1dc5d917dd9a5b65389641"
+}

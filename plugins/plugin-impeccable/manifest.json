@@ -1,0 +1,37 @@
+{
+  "id": "plugin-impeccable",
+  "name": "Impeccable Design Quality Suite",
+  "version": "4.3.1",
+  "description": "Full-fidelity design engineering suite for polish, critique, audit, layout, typography, and motion.",
+  "skills": [
+    "impeccable"
+  ],
+  "commands": [
+    "/polish",
+    "/critique",
+    "/audit",
+    "/animate",
+    "/layout",
+    "/typeset",
+    "/clarify",
+    "/delight",
+    "/harden",
+    "/onboard",
+    "/distill",
+    "/colorize",
+    "/bolder",
+    "/quieter",
+    "/overdrive",
+    "/shape",
+    "/live",
+    "/document",
+    "/extract",
+    "/adapt"
+  ],
+  "cli": {
+    "name": "impeccable",
+    "npm": "impeccable"
+  },
+  "provenance": "pbakaus__impeccable",
+  "license": "Apache-2.0"
+}

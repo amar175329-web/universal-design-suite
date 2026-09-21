@@ -1,0 +1,8 @@
+{
+  "canonical_id": "run-eval-harbor",
+  "original_name": "run-eval-harbor",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/run-eval-harbor/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "c49e1084322a6b170362ee2761557bd56d4be20435f959d3a7d29003f4588a1e"
+}

@@ -1,0 +1,8 @@
+{
+  "canonical_id": "create-issue",
+  "original_name": "create-issue",
+  "source_repo": "penpot__penpot",
+  "source_path": ".agents/skills/create-issue/SKILL.md",
+  "license": "MPL-2.0",
+  "content_hash": "da98b1da7827fa9ddbd4ee8b9010f1bdc1836ec1d06c1b4135aab85bf4b5a660"
+}

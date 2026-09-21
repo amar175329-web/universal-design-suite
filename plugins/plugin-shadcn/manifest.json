@@ -1,0 +1,16 @@
+{
+  "id": "plugin-shadcn",
+  "name": "Shadcn Component Architecture",
+  "version": "1.0.0",
+  "description": "Accessible React/Tailwind component registry, CLI automation, and Radix-to-Base migration.",
+  "skills": [
+    "shadcn",
+    "migrate-radix-to-base"
+  ],
+  "cli": {
+    "name": "shadcn",
+    "npm": "shadcn@latest"
+  },
+  "provenance": "shadcn-ui__ui",
+  "license": "MIT"
+}

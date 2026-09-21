@@ -1,0 +1,8 @@
+{
+  "canonical_id": "builtin-tool",
+  "original_name": "builtin-tool",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/builtin-tool/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "2763043284148901311532309c6561135ad0585931fd272d32014b87454ade66"
+}

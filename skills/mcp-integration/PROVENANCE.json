@@ -1,0 +1,8 @@
+{
+  "canonical_id": "mcp-integration",
+  "original_name": "MCP Integration",
+  "source_repo": "anthropics__claude-code",
+  "source_path": "plugins/plugin-dev/skills/mcp-integration/SKILL.md",
+  "license": "\u00a9 Anthropic PBC. All rights re",
+  "content_hash": "1cbfb6b1cf98f48a7c6938e113869a229cd5a59037712072fe11f21a47c6df0e"
+}

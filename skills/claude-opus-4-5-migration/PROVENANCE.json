@@ -1,0 +1,8 @@
+{
+  "canonical_id": "claude-opus-4-5-migration",
+  "original_name": "claude-opus-4-5-migration",
+  "source_repo": "anthropics__claude-code",
+  "source_path": "plugins/claude-opus-4-5-migration/skills/claude-opus-4-5-migration/SKILL.md",
+  "license": "\u00a9 Anthropic PBC. All rights re",
+  "content_hash": "ec3f9c16195aaae88003a5ed831f6a66c8fd7b2e0fbd039071107dc788247761"
+}

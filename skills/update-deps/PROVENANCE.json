@@ -1,0 +1,8 @@
+{
+  "canonical_id": "update-deps",
+  "original_name": "update-deps",
+  "source_repo": "assistant-ui__assistant-ui",
+  "source_path": ".claude/skills/update-deps/SKILL.md",
+  "license": "MIT",
+  "content_hash": "b4c9de819d1a2ab2fbcb08fb44bd53969195ed1a0ef12e475533780e6fab9f90"
+}

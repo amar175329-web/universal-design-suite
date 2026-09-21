@@ -1,0 +1,19 @@
+{
+  "id": "plugin-taste-leonx",
+  "name": "Taste Aesthetics (Leonxlnx)",
+  "version": "1.0.0",
+  "description": "Curated aesthetic systems: brutalist, soft UI, minimalist, and image-to-code styling.",
+  "skills": [
+    "taste-leonx",
+    "taste-brutalist",
+    "taste-soft-ui",
+    "taste-minimalist-leonx"
+  ],
+  "commands": [
+    "/bolder",
+    "/quieter",
+    "/colorize"
+  ],
+  "provenance": "Leonxlnx__taste-skill",
+  "license": "MIT"
+}

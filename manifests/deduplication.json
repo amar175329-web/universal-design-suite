@@ -1,0 +1,401 @@
+[
+  {
+    "canonical_capability": "21st-ui-explore",
+    "duplicate_source": "21st-dev__skill:skills/21st-ui-explore/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches 21st-ui-explore from 21st-dev__claude-code-plugin",
+    "provenance": "21st-dev__skill -> skills/21st-ui-explore/SKILL.md"
+  },
+  {
+    "canonical_capability": "21st-ai",
+    "duplicate_source": "21st-dev__skill:skills/21st-ai/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches 21st-ai from 21st-dev__claude-code-plugin",
+    "provenance": "21st-dev__skill -> skills/21st-ai/SKILL.md"
+  },
+  {
+    "canonical_capability": "21st-ui-build",
+    "duplicate_source": "21st-dev__skill:skills/21st-ui-build/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches 21st-ui-build from 21st-dev__claude-code-plugin",
+    "provenance": "21st-dev__skill -> skills/21st-ui-build/SKILL.md"
+  },
+  {
+    "canonical_capability": "21st-design-sync",
+    "duplicate_source": "21st-dev__skill:skills/21st-design-sync/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches 21st-design-sync from 21st-dev__claude-code-plugin",
+    "provenance": "21st-dev__skill -> skills/21st-design-sync/SKILL.md"
+  },
+  {
+    "canonical_capability": "21st-registry",
+    "duplicate_source": "21st-dev__skill:skills/21st-registry/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches 21st-registry from 21st-dev__claude-code-plugin",
+    "provenance": "21st-dev__skill -> skills/21st-registry/SKILL.md"
+  },
+  {
+    "canonical_capability": "21st-ui-review",
+    "duplicate_source": "21st-dev__skill:skills/21st-ui-review/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches 21st-ui-review from 21st-dev__claude-code-plugin",
+    "provenance": "21st-dev__skill -> skills/21st-ui-review/SKILL.md"
+  },
+  {
+    "canonical_capability": "21st-cli-use",
+    "duplicate_source": "21st-dev__skill:skills/21st-cli-use/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches 21st-cli-use from 21st-dev__claude-code-plugin",
+    "provenance": "21st-dev__skill -> skills/21st-cli-use/SKILL.md"
+  },
+  {
+    "canonical_capability": "next-best-practices",
+    "duplicate_source": "Kiranism__next-shadcn-dashboard-starter:.claude/skills/next-best-practices/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches next-best-practices from Kiranism__next-shadcn-dashboard-starter",
+    "provenance": "Kiranism__next-shadcn-dashboard-starter -> .claude/skills/next-best-practices/SKILL.md"
+  },
+  {
+    "canonical_capability": "vercel-react-best-practices",
+    "duplicate_source": "Kiranism__next-shadcn-dashboard-starter:.claude/skills/vercel-react-best-practices/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches vercel-react-best-practices from Kiranism__next-shadcn-dashboard-starter",
+    "provenance": "Kiranism__next-shadcn-dashboard-starter -> .claude/skills/vercel-react-best-practices/SKILL.md"
+  },
+  {
+    "canonical_capability": "vercel-composition-patterns",
+    "duplicate_source": "Kiranism__next-shadcn-dashboard-starter:.claude/skills/vercel-composition-patterns/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches vercel-composition-patterns from Kiranism__next-shadcn-dashboard-starter",
+    "provenance": "Kiranism__next-shadcn-dashboard-starter -> .claude/skills/vercel-composition-patterns/SKILL.md"
+  },
+  {
+    "canonical_capability": "kiranism-shadcn-dashboard",
+    "duplicate_source": "Kiranism__next-shadcn-dashboard-starter:.claude/skills/kiranism-shadcn-dashboard/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.claude/skills/kiranism-shadcn-dashboard/SKILL.md vs .agents/skills/kiranism-shadcn-dashboard/SKILL.md)",
+    "provenance": "Kiranism__next-shadcn-dashboard-starter -> .claude/skills/kiranism-shadcn-dashboard/SKILL.md"
+  },
+  {
+    "canonical_capability": "web-design-guidelines",
+    "duplicate_source": "Kiranism__next-shadcn-dashboard-starter:.claude/skills/web-design-guidelines/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches web-design-guidelines from Kiranism__next-shadcn-dashboard-starter",
+    "provenance": "Kiranism__next-shadcn-dashboard-starter -> .claude/skills/web-design-guidelines/SKILL.md"
+  },
+  {
+    "canonical_capability": "frontend-design",
+    "duplicate_source": "anthropics__skills:skills/frontend-design/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches frontend-design from anthropics__claude-code",
+    "provenance": "anthropics__skills -> skills/frontend-design/SKILL.md"
+  },
+  {
+    "canonical_capability": "industrial-brutalist-ui",
+    "duplicate_source": "chenthedigger__taste-skill:skills/industrial-brutalist-ui/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches industrial-brutalist-ui from Leonxlnx__taste-skill",
+    "provenance": "chenthedigger__taste-skill -> skills/industrial-brutalist-ui/SKILL.md"
+  },
+  {
+    "canonical_capability": "redesign-existing-projects",
+    "duplicate_source": "chenthedigger__taste-skill:skills/redesign-existing-projects/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches redesign-existing-projects from Leonxlnx__taste-skill",
+    "provenance": "chenthedigger__taste-skill -> skills/redesign-existing-projects/SKILL.md"
+  },
+  {
+    "canonical_capability": "full-output-enforcement",
+    "duplicate_source": "chenthedigger__taste-skill:skills/full-output-enforcement/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches full-output-enforcement from Leonxlnx__taste-skill",
+    "provenance": "chenthedigger__taste-skill -> skills/full-output-enforcement/SKILL.md"
+  },
+  {
+    "canonical_capability": "design-taste-frontend",
+    "duplicate_source": "chenthedigger__taste-skill:skills/design-taste-frontend/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches design-taste-frontend from Leonxlnx__taste-skill",
+    "provenance": "chenthedigger__taste-skill -> skills/design-taste-frontend/SKILL.md"
+  },
+  {
+    "canonical_capability": "gpt-taste",
+    "duplicate_source": "chenthedigger__taste-skill:skills/gpt-taste/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches gpt-taste from Leonxlnx__taste-skill",
+    "provenance": "chenthedigger__taste-skill -> skills/gpt-taste/SKILL.md"
+  },
+  {
+    "canonical_capability": "image-to-code",
+    "duplicate_source": "chenthedigger__taste-skill:skills/image-to-code/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches image-to-code from Leonxlnx__taste-skill",
+    "provenance": "chenthedigger__taste-skill -> skills/image-to-code/SKILL.md"
+  },
+  {
+    "canonical_capability": "imagegen-frontend-web",
+    "duplicate_source": "chenthedigger__taste-skill:skills/imagegen-frontend-web/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches imagegen-frontend-web from Leonxlnx__taste-skill",
+    "provenance": "chenthedigger__taste-skill -> skills/imagegen-frontend-web/SKILL.md"
+  },
+  {
+    "canonical_capability": "brandkit",
+    "duplicate_source": "chenthedigger__taste-skill:skills/brandkit/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches brandkit from Leonxlnx__taste-skill",
+    "provenance": "chenthedigger__taste-skill -> skills/brandkit/SKILL.md"
+  },
+  {
+    "canonical_capability": "minimalist-ui",
+    "duplicate_source": "chenthedigger__taste-skill:skills/minimalist-ui/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches minimalist-ui from Leonxlnx__taste-skill",
+    "provenance": "chenthedigger__taste-skill -> skills/minimalist-ui/SKILL.md"
+  },
+  {
+    "canonical_capability": "imagegen-frontend-mobile",
+    "duplicate_source": "chenthedigger__taste-skill:skills/imagegen-frontend-mobile/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches imagegen-frontend-mobile from Leonxlnx__taste-skill",
+    "provenance": "chenthedigger__taste-skill -> skills/imagegen-frontend-mobile/SKILL.md"
+  },
+  {
+    "canonical_capability": "high-end-visual-design",
+    "duplicate_source": "chenthedigger__taste-skill:skills/high-end-visual-design/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches high-end-visual-design from Leonxlnx__taste-skill",
+    "provenance": "chenthedigger__taste-skill -> skills/high-end-visual-design/SKILL.md"
+  },
+  {
+    "canonical_capability": "acceptance",
+    "duplicate_source": "lobehub__lobe-chat:packages/builtin-skills/src/acceptance/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (packages/builtin-skills/src/acceptance/SKILL.md vs public/acceptance/skill.md)",
+    "provenance": "lobehub__lobe-chat -> packages/builtin-skills/src/acceptance/SKILL.md"
+  },
+  {
+    "canonical_capability": "base-ui-review",
+    "duplicate_source": "mui__base-ui:.claude/skills/base-ui-review/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.claude/skills/base-ui-review/SKILL.md vs .agents/skills/base-ui-review/SKILL.md)",
+    "provenance": "mui__base-ui -> .claude/skills/base-ui-review/SKILL.md"
+  },
+  {
+    "canonical_capability": "slides",
+    "duplicate_source": "nextlevelbuilder__ui-ux-pro-max-skill:.claude/skills/slides/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches slides from nextlevelbuilder__ui-ux-pro-max-skill",
+    "provenance": "nextlevelbuilder__ui-ux-pro-max-skill -> .claude/skills/slides/SKILL.md"
+  },
+  {
+    "canonical_capability": "design",
+    "duplicate_source": "nextlevelbuilder__ui-ux-pro-max-skill:.claude/skills/design/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches design from nextlevelbuilder__ui-ux-pro-max-skill",
+    "provenance": "nextlevelbuilder__ui-ux-pro-max-skill -> .claude/skills/design/SKILL.md"
+  },
+  {
+    "canonical_capability": "ui-styling",
+    "duplicate_source": "nextlevelbuilder__ui-ux-pro-max-skill:.claude/skills/ui-styling/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches ui-styling from nextlevelbuilder__ui-ux-pro-max-skill",
+    "provenance": "nextlevelbuilder__ui-ux-pro-max-skill -> .claude/skills/ui-styling/SKILL.md"
+  },
+  {
+    "canonical_capability": "design-system",
+    "duplicate_source": "nextlevelbuilder__ui-ux-pro-max-skill:.claude/skills/design-system/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches design-system from nextlevelbuilder__ui-ux-pro-max-skill",
+    "provenance": "nextlevelbuilder__ui-ux-pro-max-skill -> .claude/skills/design-system/SKILL.md"
+  },
+  {
+    "canonical_capability": "banner-design",
+    "duplicate_source": "nextlevelbuilder__ui-ux-pro-max-skill:.claude/skills/banner-design/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches banner-design from nextlevelbuilder__ui-ux-pro-max-skill",
+    "provenance": "nextlevelbuilder__ui-ux-pro-max-skill -> .claude/skills/banner-design/SKILL.md"
+  },
+  {
+    "canonical_capability": "brand",
+    "duplicate_source": "nextlevelbuilder__ui-ux-pro-max-skill:.claude/skills/brand/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches brand from nextlevelbuilder__ui-ux-pro-max-skill",
+    "provenance": "nextlevelbuilder__ui-ux-pro-max-skill -> .claude/skills/brand/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.agents/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.agents/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .agents/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.gemini/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.gemini/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .gemini/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.pi/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.pi/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .pi/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.dsh/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.dsh/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .dsh/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.claude/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.claude/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .claude/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.qoder/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.qoder/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .qoder/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.agent/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.agent/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .agent/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.rovodev/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.rovodev/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .rovodev/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.kiro/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.kiro/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .kiro/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:cursor-plugin/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (cursor-plugin/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> cursor-plugin/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.grok/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.grok/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .grok/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.github/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.github/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .github/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.opencode/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.opencode/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .opencode/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:plugin/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (plugin/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> plugin/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:tests/oracle/workspaces/ctx-pin/.agents/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (tests/oracle/workspaces/ctx-pin/.agents/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> tests/oracle/workspaces/ctx-pin/.agents/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:tests/oracle/workspaces/ctx-pin/.claude/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (tests/oracle/workspaces/ctx-pin/.claude/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> tests/oracle/workspaces/ctx-pin/.claude/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:tests/oracle/workspaces/ctx-pin/.cursor/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (tests/oracle/workspaces/ctx-pin/.cursor/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> tests/oracle/workspaces/ctx-pin/.cursor/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.cursor/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.cursor/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .cursor/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.vibe/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.vibe/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .vibe/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.hermes/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.hermes/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .hermes/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.trae-cn/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.trae-cn/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .trae-cn/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "impeccable",
+    "duplicate_source": "pbakaus__impeccable:.veto/skills/impeccable/SKILL.md",
+    "type": "skill",
+    "reason": "Multi-agent platform copy in same repo (.veto/skills/impeccable/SKILL.md vs .trae/skills/impeccable/SKILL.md)",
+    "provenance": "pbakaus__impeccable -> .veto/skills/impeccable/SKILL.md"
+  },
+  {
+    "canonical_capability": "vercel-react-best-practices-stacklok",
+    "duplicate_source": "stacklok__toolhive-cloud-ui:.opencode/skill/vercel-react-best-practices/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches vercel-react-best-practices-stacklok from stacklok__toolhive-cloud-ui",
+    "provenance": "stacklok__toolhive-cloud-ui -> .opencode/skill/vercel-react-best-practices/SKILL.md"
+  },
+  {
+    "canonical_capability": "vercel-react-best-practices-stacklok",
+    "duplicate_source": "stacklok__toolhive-cloud-ui:.cursor/skills/vercel-react-best-practices/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches vercel-react-best-practices-stacklok from stacklok__toolhive-cloud-ui",
+    "provenance": "stacklok__toolhive-cloud-ui -> .cursor/skills/vercel-react-best-practices/SKILL.md"
+  },
+  {
+    "canonical_capability": "vercel-react-best-practices-stacklok",
+    "duplicate_source": "stacklok__toolhive-cloud-ui:.codex/skills/vercel-react-best-practices/SKILL.md",
+    "type": "skill",
+    "reason": "Identical SHA256 matches vercel-react-best-practices-stacklok from stacklok__toolhive-cloud-ui",
+    "provenance": "stacklok__toolhive-cloud-ui -> .codex/skills/vercel-react-best-practices/SKILL.md"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "canonical_id": "audit",
+  "original_name": "audit",
+  "source_repo": "pbakaus__impeccable",
+  "source_path": "tests/oracle/workspaces/ctx-pin/.claude/skills/audit/SKILL.md",
+  "license": "Apache-2.0",
+  "content_hash": "4cde685f70c2851d74b5521cefec477756e332e8f3974da53c7a59f858a2a484"
+}

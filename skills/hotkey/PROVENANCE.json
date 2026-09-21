@@ -1,0 +1,8 @@
+{
+  "canonical_id": "hotkey",
+  "original_name": "hotkey",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/hotkey/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "060421b42cfe605700a1a39a53b46b83794b6a0e81f436ef25b4842151f8a455"
+}

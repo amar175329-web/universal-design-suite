@@ -1,0 +1,26 @@
+{
+  "id": "plugin-ui-ux-pro-max",
+  "name": "UI/UX Pro Max Intelligence",
+  "version": "2.13.0",
+  "description": "Multi-framework UI/UX intelligence system, design tokens, responsive layout rules, and slides engine.",
+  "skills": [
+    "ui-ux-pro-max",
+    "slides",
+    "design",
+    "ui-styling",
+    "design-system",
+    "banner-design",
+    "brand"
+  ],
+  "commands": [
+    "/audit",
+    "/layout",
+    "/polish"
+  ],
+  "cli": {
+    "name": "uipro",
+    "npm": "ui-ux-pro-max-cli"
+  },
+  "provenance": "nextlevelbuilder__ui-ux-pro-max-skill",
+  "license": "MIT"
+}

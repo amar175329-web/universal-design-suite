@@ -1,0 +1,8 @@
+{
+  "canonical_id": "ripgrep",
+  "original_name": "ripgrep",
+  "source_repo": "penpot__penpot",
+  "source_path": ".agents/skills/ripgrep/SKILL.md",
+  "license": "MPL-2.0",
+  "content_hash": "b010aa443f305f638aacab02cc143d9589720303e8ee6ad4fef4bffeaf6f3ce4"
+}

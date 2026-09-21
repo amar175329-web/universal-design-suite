@@ -1,0 +1,15 @@
+{
+  "id": "plugin-tool-ui",
+  "name": "Tool UI & Generative Components",
+  "version": "0.1.1",
+  "description": "Rich interactive widgets and AI tool integration patterns for generative chat workflows.",
+  "skills": [
+    "tool-ui"
+  ],
+  "cli": {
+    "name": "tool-agent",
+    "npm": "tool-agent"
+  },
+  "provenance": "assistant-ui__tool-ui",
+  "license": "MIT"
+}

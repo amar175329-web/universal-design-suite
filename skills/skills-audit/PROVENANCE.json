@@ -1,0 +1,8 @@
+{
+  "canonical_id": "skills-audit",
+  "original_name": "skills-audit",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/skills-audit/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "3bc14d8d677d41b97d9771a695daef37a0e53008d246c465e1a6787575385580"
+}

@@ -1,0 +1,8 @@
+{
+  "canonical_id": "version-release",
+  "original_name": "version-release",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/version-release/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "55c601998d6963038515a0f552470117f4ea3daae625c554672ec226678c7add"
+}

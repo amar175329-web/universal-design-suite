@@ -1,0 +1,20 @@
+{
+  "id": "plugin-sepia",
+  "name": "Sepia Architecture & Refactor",
+  "version": "1.0.0",
+  "description": "Engineering principles, Hemingway-style clarity, code review, recreation, and refactoring.",
+  "skills": [
+    "sepia",
+    "sepia-hemingway",
+    "sepia-recreate",
+    "sepia-refactor",
+    "sepia-review",
+    "sepia-write"
+  ],
+  "commands": [
+    "/clarify",
+    "/audit"
+  ],
+  "provenance": "Nanako0129__sepia",
+  "license": "MIT"
+}

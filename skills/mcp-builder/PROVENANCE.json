@@ -1,0 +1,8 @@
+{
+  "canonical_id": "mcp-builder",
+  "original_name": "mcp-builder",
+  "source_repo": "CopilotKit__CopilotKit",
+  "source_path": "examples/showcases/open-mcp-client/apps/mcp-use-server/.agent/skills/mcp-builder/SKILL.md",
+  "license": "MIT",
+  "content_hash": "ca6cc335fafb04ec24958e45e56564056a25006e9784a18dcdc968512c41cbb4"
+}

@@ -1,0 +1,8 @@
+{
+  "canonical_id": "task",
+  "original_name": "task",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": "packages/builtin-skills/src/task/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "8eccef83959170712c49ab3b94ed6f96acb3867087f9683cc54a0b4a18376ed8"
+}

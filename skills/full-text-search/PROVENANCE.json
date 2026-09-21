@@ -1,0 +1,8 @@
+{
+  "canonical_id": "full-text-search",
+  "original_name": "full-text-search",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/full-text-search/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "e748cf17e010ed2b3f284cc7cc295ffd3fee88f0e9554908d176175a0db006bd"
+}

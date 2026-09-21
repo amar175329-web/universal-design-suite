@@ -1,0 +1,8 @@
+{
+  "canonical_id": "agent-signal",
+  "original_name": "agent-signal",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/agent-signal/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "1f9b4a529f12d595dda3c6b055fc5d20bba0b77ece17469451404b7457f71828"
+}

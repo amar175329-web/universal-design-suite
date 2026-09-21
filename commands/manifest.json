@@ -1,0 +1,146 @@
+[
+  {
+    "command": "/polish",
+    "name": "polish",
+    "description": "Performs a final quality pass fixing alignment, spacing, consistency, and micro-details.",
+    "file": "commands/polish.md"
+  },
+  {
+    "command": "/critique",
+    "name": "critique",
+    "description": "Evaluates design from a UX perspective, assessing visual hierarchy, emotional resonance, cognitive load.",
+    "file": "commands/critique.md"
+  },
+  {
+    "command": "/audit",
+    "name": "audit",
+    "description": "Runs technical quality checks across accessibility (WCAG), performance, theming, responsive design.",
+    "file": "commands/audit.md"
+  },
+  {
+    "command": "/animate",
+    "name": "animate",
+    "description": "Enhances features with purposeful animations, micro-interactions, and motion design.",
+    "file": "commands/animate.md"
+  },
+  {
+    "command": "/layout",
+    "name": "layout",
+    "description": "Improves layout, spacing, visual rhythm, and hierarchy.",
+    "file": "commands/layout.md"
+  },
+  {
+    "command": "/typeset",
+    "name": "typeset",
+    "description": "Improves typography: font choices, hierarchy, sizing, weight, and readability.",
+    "file": "commands/typeset.md"
+  },
+  {
+    "command": "/normalize",
+    "name": "normalize",
+    "description": "Extracts and standardizes design tokens across colors, spacing scales, and radiuses.",
+    "file": "commands/normalize.md"
+  },
+  {
+    "command": "/clarify",
+    "name": "clarify",
+    "description": "Improves unclear UX copy, error messages, microcopy, labels, and instructions.",
+    "file": "commands/clarify.md"
+  },
+  {
+    "command": "/delight",
+    "name": "delight",
+    "description": "Adds moments of joy, personality, and unexpected touches that elevate functional UI.",
+    "file": "commands/delight.md"
+  },
+  {
+    "command": "/harden",
+    "name": "harden",
+    "description": "Makes interfaces production-ready with error handling, i18n, and overflow management.",
+    "file": "commands/harden.md"
+  },
+  {
+    "command": "/onboard",
+    "name": "onboard",
+    "description": "Designs onboarding flows, first-run experiences, and contextual empty states.",
+    "file": "commands/onboard.md"
+  },
+  {
+    "command": "/distill",
+    "name": "distill",
+    "description": "Strips designs to their essence by removing unnecessary complexity and visual noise.",
+    "file": "commands/distill.md"
+  },
+  {
+    "command": "/colorize",
+    "name": "colorize",
+    "description": "Adds strategic color to features that are too monochromatic or lack visual interest.",
+    "file": "commands/colorize.md"
+  },
+  {
+    "command": "/bolder",
+    "name": "bolder",
+    "description": "Amplifies safe or boring designs to make them more visually interesting and impactful.",
+    "file": "commands/bolder.md"
+  },
+  {
+    "command": "/quieter",
+    "name": "quieter",
+    "description": "Tones down visually aggressive or overstimulating designs, restoring calm aesthetics.",
+    "file": "commands/quieter.md"
+  },
+  {
+    "command": "/overdrive",
+    "name": "overdrive",
+    "description": "Pushes interfaces past conventional limits with shaders, spring physics, and 60fps canvas.",
+    "file": "commands/overdrive.md"
+  },
+  {
+    "command": "/shape",
+    "name": "shape",
+    "description": "Plans UX and UI before code through multi-round discovery interviews and design briefs.",
+    "file": "commands/shape.md"
+  },
+  {
+    "command": "/live",
+    "name": "live",
+    "description": "Interactive live variant mode hot-swapping HTML+CSS via HMR dev server.",
+    "file": "commands/live.md"
+  },
+  {
+    "command": "/document",
+    "name": "document",
+    "description": "Generates a tool-compatible DESIGN.md capturing visual system and atmosphere.",
+    "file": "commands/document.md"
+  },
+  {
+    "command": "/extract",
+    "name": "extract",
+    "description": "Pulls reusable patterns, components, and design tokens into the design system.",
+    "file": "commands/extract.md"
+  },
+  {
+    "command": "/adapt",
+    "name": "adapt",
+    "description": "Adapts designs across different screen sizes, devices, breakpoints, and touch ergonomics.",
+    "file": "commands/adapt.md"
+  },
+  {
+    "command": "/explore",
+    "name": "explore",
+    "description": "Searches and discovers 21st.dev and community component registries.",
+    "file": "commands/explore.md"
+  },
+  {
+    "command": "/sync",
+    "name": "sync",
+    "description": "Synchronizes local tokens and components with external registries.",
+    "file": "commands/sync.md"
+  },
+  {
+    "command": "/loop",
+    "name": "loop",
+    "description": "Gauntlet loop continuous visual verification and browser testing iteration.",
+    "file": "commands/loop.md"
+  }
+]

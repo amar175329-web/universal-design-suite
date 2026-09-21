@@ -1,0 +1,2628 @@
+[
+  {
+    "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "owner": "nextlevelbuilder",
+    "purpose": "[UI UX Pro Max](https://uupm.cc)",
+    "category": "DESIGN_INTELLIGENCE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "Agent Skills / Copy",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "VoltAgent/awesome-design-md",
+    "owner": "VoltAgent",
+    "purpose": "awesome-design-md design asset",
+    "category": "DESIGN_INTELLIGENCE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "VoltAgent/official-design-md",
+    "owner": "VoltAgent",
+    "purpose": "<a href=\"https://github.com/VoltAgent/voltagent\">",
+    "category": "DESIGN_INTELLIGENCE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "pbakaus/impeccable",
+    "owner": "pbakaus",
+    "purpose": "Design skills, commands, and anti-pattern detection for AI coding agents",
+    "category": "DESIGN_INTELLIGENCE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [
+      {
+        "impeccable": "cli/bin/cli.js"
+      }
+    ],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "Apache-2.0",
+    "installation_method": "npm install -g",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "anthropics/claude-code",
+    "owner": "anthropics",
+    "purpose": "Claude Code",
+    "category": "DESIGN_INTELLIGENCE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "\u00a9 Anthropic PBC. All rights re",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "anthropics/skills",
+    "owner": "anthropics",
+    "purpose": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).",
+    "category": "DESIGN_INTELLIGENCE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [
+      "SKILL.md"
+    ],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "UNKNOWN",
+    "installation_method": "Agent Skills / Copy",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "penpot/penpot",
+    "owner": "penpot",
+    "purpose": "<img width=\"100%\" src=\"https://github.com/user-attachments/assets/da17b160-f289-436f-b140-972083a08602\" />",
+    "category": "DESIGN_INTELLIGENCE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MPL-2.0",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "shadcn-ui/ui",
+    "owner": "shadcn-ui",
+    "purpose": "shadcn/ui",
+    "category": "CORE_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@babel/core",
+      "@changesets/changelog-github",
+      "@changesets/cli",
+      "@commitlint/cli",
+      "@commitlint/config-conventional",
+      "@ianvs/prettier-plugin-sort-imports",
+      "@manypkg/cli",
+      "@typescript-eslint/eslint-plugin"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "tailwindlabs/tailwindcss",
+    "owner": "tailwindlabs",
+    "purpose": "<p align=\"center\">",
+    "category": "CORE_UI",
+    "framework": "Tailwind CSS",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "tailwindlabs/headlessui",
+    "owner": "tailwindlabs",
+    "purpose": "Headless UI components for various libraries like React and Vue",
+    "category": "CORE_UI",
+    "framework": "Vue",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "radix-ui/primitives",
+    "owner": "radix-ui",
+    "purpose": "[![Radix Primitives Logo](primitives.png)](https://radix-ui.com/primitives)",
+    "category": "CORE_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "mui/base-ui",
+    "owner": "mui",
+    "purpose": "Base\u00a0UI",
+    "category": "CORE_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "cosscom/coss",
+    "owner": "cosscom",
+    "purpose": "![coss.com](https://github.com/user-attachments/assets/56dfe7f7-85b7-44ee-b89a-1c30c5c4a156)",
+    "category": "CORE_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "GPL",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "heroui-inc/heroui",
+    "owner": "heroui-inc",
+    "purpose": "<p align=\"center\">",
+    "category": "CORE_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "Apache-2.0",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "heroui-inc/heroui-native",
+    "owner": "heroui-inc",
+    "purpose": "Beautiful, fast and modern React Native UI library",
+    "category": "CORE_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "Apache-2.0",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "mantinedev/mantine",
+    "owner": "mantinedev",
+    "purpose": "Mantine Components Monorepo",
+    "category": "CORE_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@emotion/cache",
+      "@emotion/react",
+      "@emotion/serialize",
+      "@emotion/server",
+      "@emotion/utils",
+      "@floating-ui/react",
+      "@phosphor-icons/react",
+      "@shikijs/transformers"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "mantinedev/ui.mantine.dev",
+    "owner": "mantinedev",
+    "purpose": "Mantine UI",
+    "category": "CORE_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@dnd-kit/core",
+      "@dnd-kit/sortable",
+      "@dnd-kit/utilities",
+      "@mantine/carousel",
+      "@mantine/code-highlight",
+      "@mantine/core",
+      "@mantine/dropzone",
+      "@mantine/form"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "UNKNOWN",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "themesberg/flowbite",
+    "owner": "themesberg",
+    "purpose": "The most popular library of interactive components built with Tailwind CSS",
+    "category": "CORE_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@popperjs/core",
+      "flowbite-datepicker",
+      "mini-svg-data-uri",
+      "postcss",
+      "tailwindcss"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": true,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "magicuidesign/magicui",
+    "owner": "magicuidesign",
+    "purpose": "<img alt=\"Magic UI - UI Library for Design Engineers\" src=\"https://cdn.magicui.design/bento-grid.gif\" width=\"100%\">",
+    "category": "ANIMATION_PREMIUM",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": true,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "magicuidesign/mcp",
+    "owner": "magicuidesign",
+    "purpose": "Official MCP server for Magic UI.",
+    "category": "ANIMATION_PREMIUM",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@modelcontextprotocol/sdk",
+      "zod"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [
+      {
+        "mcp": "./dist/server.js"
+      }
+    ],
+    "animation": true,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "DavidHDev/react-bits",
+    "owner": "DavidHDev",
+    "purpose": "<div align=\"center\">",
+    "category": "ANIMATION_PREMIUM",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@chakra-ui/react",
+      "@emotion/react",
+      "@gsap/react",
+      "@hugeicons/core-free-icons",
+      "@hugeicons/react",
+      "@react-three/drei",
+      "@react-three/fiber",
+      "@react-three/postprocessing"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": true,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "motiondivision/motion",
+    "owner": "motiondivision",
+    "purpose": "<h1 align=\"center\"> <img width=\"35\" height=\"35\" alt=\"Motion logo\" src=\"https://github.com/user-attachments/assets/00d6d1c3-72c4-4c2f-a664-69da13182ffc\" /><br />Motion</h1>",
+    "category": "ANIMATION_PREMIUM",
+    "framework": "Vue",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": true,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "darkroomengineering/lenis",
+    "owner": "darkroomengineering",
+    "purpose": "How smooth scroll should be",
+    "category": "ANIMATION_PREMIUM",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": true,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "emilkowalski/sonner",
+    "owner": "emilkowalski",
+    "purpose": "An opinionated toast component for React.",
+    "category": "ANIMATION_PREMIUM",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": true,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "floating-ui/floating-ui",
+    "owner": "floating-ui",
+    "purpose": "Floating UI monorepo",
+    "category": "ANIMATION_PREMIUM",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": true,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "bvaughn/react-resizable-panels",
+    "owner": "bvaughn",
+    "purpose": "<img src=\"https://react-resizable-panels.vercel.app/og.png\" alt=\"react-resizable-panels logo\" width=\"400\" height=\"210\" />",
+    "category": "ANIMATION_PREMIUM",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": true,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "bokuweb/react-rnd",
+    "owner": "bokuweb",
+    "purpose": "A draggable and resizable React Component",
+    "category": "ANIMATION_PREMIUM",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "re-resizable",
+      "react-draggable",
+      "tslib"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": true,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "pacocoursey/cmdk",
+    "owner": "pacocoursey",
+    "purpose": "<p align=\"center\">",
+    "category": "ANIMATION_PREMIUM",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": true,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "lucide-icons/lucide",
+    "owner": "lucide-icons",
+    "purpose": "<p align=\"center\">",
+    "category": "ICONS_ASSETS",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "airbnb/lottie-web",
+    "owner": "airbnb",
+    "purpose": "After Effects plugin for exporting animations to SVG + JavaScript or canvas + JavaScript",
+    "category": "ICONS_ASSETS",
+    "framework": "React / Web",
+    "language": "JavaScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "assistant-ui/assistant-ui",
+    "owner": "assistant-ui",
+    "purpose": "<a href=\"https://www.assistant-ui.com\">",
+    "category": "AI_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": true,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "assistant-ui/tool-ui",
+    "owner": "assistant-ui",
+    "purpose": "Open source component library for tool call widgets",
+    "category": "AI_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": true,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "CopilotKit/CopilotKit",
+    "owner": "CopilotKit",
+    "purpose": "<div align=center>",
+    "category": "AI_UI",
+    "framework": "React / Web",
+    "language": "JavaScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [
+      "mcp.json"
+    ],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": true,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "lobehub/lobe-chat",
+    "owner": "lobehub",
+    "purpose": "LobeHub - an open-source,comprehensive AI Agent framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.",
+    "category": "AI_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@aiden0z/pptx-renderer",
+      "@ant-design/icons",
+      "@anthropic-ai/sdk",
+      "@atlaskit/pragmatic-drag-and-drop",
+      "@atlaskit/pragmatic-drag-and-drop-hitbox",
+      "@aws-sdk/client-bedrock-runtime",
+      "@aws-sdk/client-s3",
+      "@aws-sdk/s3-request-presigner"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": true,
+    "mobile_UI": false,
+    "license": "LobeHub Community License",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "nextjs/saas-starter",
+    "owner": "nextjs",
+    "purpose": "Next.js SaaS Starter",
+    "category": "AI_UI",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@tailwindcss/postcss",
+      "@types/node",
+      "@types/react",
+      "@types/react-dom",
+      "autoprefixer",
+      "bcryptjs",
+      "class-variance-authority",
+      "clsx"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": true,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "pmndrs/react-three-fiber",
+    "owner": "pmndrs",
+    "purpose": "react-three-fiber design asset",
+    "category": "3D_GRAPHICS",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "pmndrs/drei",
+    "owner": "pmndrs",
+    "purpose": "useful add-ons for react-three-fiber",
+    "category": "3D_GRAPHICS",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@babel/runtime",
+      "@mediapipe/tasks-vision",
+      "@monogrid/gainmap-js",
+      "@use-gesture/react",
+      "camera-controls",
+      "cross-env",
+      "detect-gpu",
+      "glsl-noise"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "pmndrs/react-three-flex",
+    "owner": "pmndrs",
+    "purpose": "`<Flex />` component for the 3D World.",
+    "category": "3D_GRAPHICS",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@react-pdf/yoga",
+      "react-merge-refs"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "dmaring/macrometric",
+    "owner": "dmaring",
+    "purpose": "Macrometric - Macro Nutrient & Calorie Tracker",
+    "category": "HEALTH_NUTRITION",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "UNKNOWN",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "Abdulla1x/Macros-Calculator",
+    "owner": "Abdulla1x",
+    "purpose": "\ud83c\udf7d\ufe0f Macros Calculator",
+    "category": "HEALTH_NUTRITION",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "dutta-sujoy/Akilo",
+    "owner": "dutta-sujoy",
+    "purpose": "<div align=\"center\">",
+    "category": "HEALTH_NUTRITION",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "hemati/tonnd",
+    "owner": "hemati",
+    "purpose": "TONND",
+    "category": "HEALTH_NUTRITION",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "GPL",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "JaveedIshaq/fitness-tracker-dashboard-development",
+    "owner": "JaveedIshaq",
+    "purpose": "FitTrack \u2014 Fitness Tracker Dashboard",
+    "category": "HEALTH_NUTRITION",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "clsx",
+      "date-fns",
+      "lucide-react",
+      "react",
+      "react-dom",
+      "recharts",
+      "tailwind-merge"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "UNKNOWN",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "AnkanMisra/Nutrition-Tracker",
+    "owner": "AnkanMisra",
+    "purpose": "<div align=\"center\">",
+    "category": "HEALTH_NUTRITION",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@expo/metro-runtime",
+      "@expo/vector-icons",
+      "@react-native-async-storage/async-storage",
+      "@react-navigation/native",
+      "@react-navigation/stack",
+      "@types/react",
+      "axios",
+      "expo"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": true,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "recharts/recharts",
+    "owner": "recharts",
+    "purpose": "React charts",
+    "category": "CHARTS",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@reduxjs/toolkit",
+      "clsx",
+      "decimal.js-light",
+      "es-toolkit",
+      "eventemitter3",
+      "immer",
+      "react-redux",
+      "reselect"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": true,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": true,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "tremorlabs/tremor-npm",
+    "owner": "tremorlabs",
+    "purpose": "The React library to build dashboards faster.",
+    "category": "CHARTS",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@floating-ui/react",
+      "@headlessui/react",
+      "date-fns",
+      "react-day-picker",
+      "react-transition-state",
+      "recharts",
+      "tailwind-merge"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": true,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "Apache 2.0",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "tremorlabs/tremor",
+    "owner": "tremorlabs",
+    "purpose": "<br />",
+    "category": "CHARTS",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@ianvs/prettier-plugin-sort-imports",
+      "@internationalized/date",
+      "@radix-ui/react-accordion",
+      "@radix-ui/react-checkbox",
+      "@radix-ui/react-dialog",
+      "@radix-ui/react-dropdown-menu",
+      "@radix-ui/react-hover-card",
+      "@radix-ui/react-label"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": true,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "Leaflet/Leaflet",
+    "owner": "Leaflet",
+    "purpose": "JavaScript library for mobile-friendly interactive maps",
+    "category": "MAPS",
+    "framework": "React / Web",
+    "language": "JavaScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": true,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "BSD-3-Clause",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "maplibre/maplibre-gl-js",
+    "owner": "maplibre",
+    "purpose": "BSD licensed community fork of mapbox-gl, a WebGL interactive maps library",
+    "category": "MAPS",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@mapbox/point-geometry",
+      "@mapbox/tiny-sdf",
+      "@mapbox/unitbezier",
+      "@mapbox/vector-tile",
+      "@maplibre/geojson-vt",
+      "@maplibre/maplibre-gl-style-spec",
+      "@maplibre/mlt",
+      "@maplibre/vt-pbf"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": true,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "visgl/react-map-gl",
+    "owner": "visgl",
+    "purpose": "React components for MapLibre GL JS and Mapbox GL JS",
+    "category": "MAPS",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": true,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "satnaing/shadcn-admin",
+    "owner": "satnaing",
+    "purpose": "Shadcn Admin Dashboard",
+    "category": "DASHBOARD",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@clerk/react",
+      "@hookform/resolvers",
+      "@radix-ui/react-alert-dialog",
+      "@radix-ui/react-avatar",
+      "@radix-ui/react-checkbox",
+      "@radix-ui/react-collapsible",
+      "@radix-ui/react-dialog",
+      "@radix-ui/react-direction"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "Kiranism/next-shadcn-dashboard-starter",
+    "owner": "Kiranism",
+    "purpose": "<h1 align=\"center\">Admin Dashboard Template with Next.js &amp; Shadcn UI</h1>",
+    "category": "DASHBOARD",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@ai-sdk/react",
+      "@base-ui/react",
+      "@clerk/nextjs",
+      "@dnd-kit/core",
+      "@dnd-kit/modifiers",
+      "@dnd-kit/sortable",
+      "@dnd-kit/utilities",
+      "@sentry/nextjs"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "stacklok/toolhive-cloud-ui",
+    "owner": "stacklok",
+    "purpose": "> [!NOTE]",
+    "category": "CLOUD_SAAS",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@ai-sdk/mcp",
+      "@ai-sdk/react",
+      "@modelcontextprotocol/sdk",
+      "@openrouter/ai-sdk-provider",
+      "@openrouter/sdk",
+      "@radix-ui/react-alert-dialog",
+      "@radix-ui/react-avatar",
+      "@radix-ui/react-checkbox"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "Apache-2.0",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "kachamo/SkillUI",
+    "owner": "kachamo",
+    "purpose": "Reverse-engineer design systems from any website, repo, or project. Extracts colors, fonts, spacing, animations, and components - packaged as a .skill file for Claude. Pure static analysis, zero AI, zero API keys.",
+    "category": "REVERSE_ENGINEERING",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "@babel/parser",
+      "@babel/traverse",
+      "@babel/types",
+      "archiver",
+      "boxen",
+      "chalk",
+      "cli-progress",
+      "commander"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [
+      {
+        "skillui": "dist/cli.js"
+      }
+    ],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "npm install -g",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "Leonxlnx/taste-skill",
+    "owner": "Leonxlnx",
+    "purpose": "<p align=\"center\">",
+    "category": "DESIGN_TASTE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "chenthedigger/taste-skill",
+    "owner": "chenthedigger",
+    "purpose": "taste-skill (Claude Code plugin)",
+    "category": "DESIGN_TASTE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "Agent Skills / Copy",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "cal1888/claude-code-skills",
+    "owner": "cal1888",
+    "purpose": "Claude Code Skills \u2014 Curated Collection",
+    "category": "DESIGN_ENGINEERING",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "Agent Skills / Copy",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "robonuggets/gauntlet-loop",
+    "owner": "robonuggets",
+    "purpose": "<p align=\"center\">",
+    "category": "QUALITY_GATE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "Attribution 4.0 International",
+    "installation_method": "Agent Skills / Copy",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "nateherkai/scroll-craft",
+    "owner": "nateherkai",
+    "purpose": "scroll-craft",
+    "category": "SCROLL_DESIGN",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": true,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "Agent Skills / Copy",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "microsoft/playwright-cli",
+    "owner": "microsoft",
+    "purpose": "Playwright CLI",
+    "category": "BROWSER_AUTOMATION",
+    "framework": "React / Web",
+    "language": "JavaScript",
+    "technologies": [
+      "playwright",
+      "playwright-core"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [
+      {
+        "playwright-cli": "playwright-cli.js"
+      }
+    ],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "Apache-2.0",
+    "installation_method": "npm install -g",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "21st-dev/claude-code-plugin",
+    "owner": "21st-dev",
+    "purpose": "21st \u2014 Claude Code plugin",
+    "category": "COMPONENT_MARKETPLACE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "Apache-2.0",
+    "installation_method": "git clone reference",
+    "Antigravity_compatible": true,
+    "global_install_possible": false,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "21st-dev/skill",
+    "owner": "21st-dev",
+    "purpose": "21st.dev \u2014 Agent Skills",
+    "category": "COMPONENT_MARKETPLACE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "Apache-2.0",
+    "installation_method": "Agent Skills / Copy",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  },
+  {
+    "repository": "21st-dev/magic-mcp",
+    "owner": "21st-dev",
+    "purpose": "Magic MCP is now the 21st MCP. This package is a compatibility proxy kept for old configs - new setups should use `npx @21st-dev/cli@latest init`. Setup: https://21st.dev/mcp",
+    "category": "COMPONENT_MARKETPLACE",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [
+      "mcp.json"
+    ],
+    "useful_CLI": [
+      {
+        "magic": "dist/index.js"
+      }
+    ],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "ISC License",
+    "installation_method": "npm install -g",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": true,
+    "notes": "Cataloged for Universal Design Library. Production-safe: False."
+  },
+  {
+    "repository": "Nanako0129/sepia",
+    "owner": "Nanako0129",
+    "purpose": "sepia",
+    "category": "DE_AI_COPY",
+    "framework": "React / Web",
+    "language": "TypeScript",
+    "technologies": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "useful_components": [
+      "components",
+      "primitives",
+      "templates"
+    ],
+    "useful_patterns": [
+      "responsive-design",
+      "state-handling",
+      "tokens"
+    ],
+    "useful_skills": [],
+    "useful_MCP": [],
+    "useful_CLI": [],
+    "animation": false,
+    "accessibility": false,
+    "responsive_design": true,
+    "charts": false,
+    "maps": false,
+    "AI_UI": false,
+    "mobile_UI": false,
+    "license": "MIT",
+    "installation_method": "Agent Skills / Copy",
+    "Antigravity_compatible": true,
+    "global_install_possible": true,
+    "runtime_dependency_candidate": false,
+    "reference_only": false,
+    "notes": "Cataloged for Universal Design Library. Production-safe: True."
+  }
+]

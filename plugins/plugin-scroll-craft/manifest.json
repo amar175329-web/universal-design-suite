@@ -1,0 +1,21 @@
+{
+  "id": "plugin-scroll-craft",
+  "name": "ScrollCraft & Motion Suite",
+  "version": "0.3.0",
+  "description": "Advanced web animation orchestration, spring physics, scroll-driven narratives, and micro-interactions.",
+  "skills": [
+    "scroll-craft",
+    "scroll-world",
+    "animation-vocabulary",
+    "find-animation-opportunities",
+    "improve-animations",
+    "review-animations",
+    "emil-design-eng"
+  ],
+  "commands": [
+    "/animate",
+    "/loop"
+  ],
+  "provenance": "nateherkai__scroll-craft",
+  "license": "MIT"
+}

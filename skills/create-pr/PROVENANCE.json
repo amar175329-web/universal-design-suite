@@ -1,0 +1,8 @@
+{
+  "canonical_id": "create-pr",
+  "original_name": "create-pr",
+  "source_repo": "penpot__penpot",
+  "source_path": ".agents/skills/create-pr/SKILL.md",
+  "license": "MPL-2.0",
+  "content_hash": "0bda413782a01271eaf3cb9c9dba2b5bdb862d61fabbf92b481933943fa7c14e"
+}

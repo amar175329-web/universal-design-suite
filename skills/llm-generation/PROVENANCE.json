@@ -1,0 +1,8 @@
+{
+  "canonical_id": "llm-generation",
+  "original_name": "llm-generation",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/llm-generation/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "7519cf87a5c1e2ecedbfd1b5b41f1015f96f00dd85a91b82b00669aef5d1fe03"
+}

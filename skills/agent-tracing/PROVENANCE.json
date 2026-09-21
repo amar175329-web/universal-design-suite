@@ -1,0 +1,8 @@
+{
+  "canonical_id": "agent-tracing",
+  "original_name": "agent-tracing",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/agent-tracing/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "8e8d0d585ae6084a7547907058d95f67313cdd6af8246ea7b86ea0a50548a988"
+}

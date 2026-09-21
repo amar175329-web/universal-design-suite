@@ -1,0 +1,8 @@
+{
+  "canonical_id": "trpc-router",
+  "original_name": "trpc-router",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/trpc-router/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "240ab19a0e28096fa2c90f0187423674d96209c2b0bf3468a07c88cbb09b7c1c"
+}

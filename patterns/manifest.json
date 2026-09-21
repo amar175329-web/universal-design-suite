@@ -1,0 +1,11 @@
+{
+  "total_patterns": 6,
+  "patterns": [
+    "ai-interfaces.md",
+    "animation-orchestration.md",
+    "design-tokens.md",
+    "health-nutrition-patterns.md",
+    "map-integration-patterns.md",
+    "responsive-layouts.md"
+  ]
+}

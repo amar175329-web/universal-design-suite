@@ -1,0 +1,20 @@
+{
+  "name": "universal-design-suite",
+  "version": "1.0.0",
+  "capabilities": {
+    "total_canonical_skills": 292,
+    "total_plugins": 12,
+    "total_mcps": 6,
+    "total_clis": 10,
+    "total_design_commands": 24,
+    "total_design_systems": 74,
+    "total_component_suites": 10,
+    "total_patterns": 6,
+    "total_licenses": 64
+  },
+  "installation": {
+    "command": "npx universal-design-suite@latest install --all",
+    "local_command": "node install.mjs --all",
+    "shell_command": "./install.sh --all"
+  }
+}

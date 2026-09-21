@@ -1,0 +1,8 @@
+{
+  "canonical_id": "trusted-publishing",
+  "original_name": "trusted-publishing",
+  "source_repo": "assistant-ui__assistant-ui",
+  "source_path": ".claude/skills/trusted-publishing/SKILL.md",
+  "license": "MIT",
+  "content_hash": "f68e1eebf6820443b8501efb180bd7bd7e454a570061009b5371d40720ef735d"
+}

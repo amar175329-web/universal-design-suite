@@ -1,0 +1,8 @@
+{
+  "canonical_id": "ux-audit",
+  "original_name": "ux-audit",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/ux-audit/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "4e3ccc0f494657bed66765c3718a0e2d6541ae13fad9606c3d20869e35fb3c3e"
+}

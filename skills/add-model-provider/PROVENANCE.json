@@ -1,0 +1,8 @@
+{
+  "canonical_id": "add-model-provider",
+  "original_name": "add-model-provider",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/add-model-provider/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "e0c682ace3f695e02dec2ab545e561cb563d61fb8661c6ae6afe869eeaa2a368"
+}

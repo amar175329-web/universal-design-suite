@@ -1,0 +1,20 @@
+{
+  "id": "plugin-taste-chen",
+  "name": "Industrial & Visual Taste (chenthedigger)",
+  "version": "1.0.0",
+  "description": "High-end visual engineering, industrial brutalist design, and existing project redesign.",
+  "skills": [
+    "taste-chenthedigger",
+    "industrial-brutalist-ui",
+    "minimalist-ui",
+    "high-end-visual-design",
+    "redesign-existing-projects"
+  ],
+  "commands": [
+    "/polish",
+    "/critique",
+    "/distill"
+  ],
+  "provenance": "chenthedigger__taste-skill",
+  "license": "MIT"
+}

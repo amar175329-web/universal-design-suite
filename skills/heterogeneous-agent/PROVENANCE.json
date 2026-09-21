@@ -1,0 +1,8 @@
+{
+  "canonical_id": "heterogeneous-agent",
+  "original_name": "heterogeneous-agent",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/heterogeneous-agent/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "b140916801d6b61c7955ba25ee6d54daed68efbaf19b1f80e2ae6f4e59119e64"
+}

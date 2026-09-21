@@ -1,0 +1,8 @@
+{
+  "canonical_id": "cli",
+  "original_name": "cli",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/cli/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "4c03eb0e056e58d9db5c4ce1293b521b7cc78bead3a51fb63ff2014928c55597"
+}

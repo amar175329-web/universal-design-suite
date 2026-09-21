@@ -1,0 +1,40 @@
+{
+  "mcpServers": {
+    "magicui": {
+      "command": "node",
+      "args": [
+        "{{SUITE_ROOT}}/mcps/magicui-mcp/dist/server.js"
+      ]
+    },
+    "21st-magic": {
+      "command": "node",
+      "args": [
+        "{{SUITE_ROOT}}/mcps/21st-magic-mcp/dist/index.js"
+      ]
+    },
+    "copilotkit-docs": {
+      "serverUrl": "https://mcp.copilotkit.ai/mcp"
+    },
+    "assistant-ui": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@assistant-ui/mcp-docs-server"
+      ]
+    },
+    "penpot": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@penpot/mcp"
+      ]
+    },
+    "mantine": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mantine/mcp-server"
+      ]
+    }
+  }
+}

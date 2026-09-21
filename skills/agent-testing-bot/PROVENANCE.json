@@ -1,0 +1,8 @@
+{
+  "canonical_id": "agent-testing-bot",
+  "original_name": "agent-testing-bot",
+  "source_repo": "lobehub__lobe-chat",
+  "source_path": ".agents/skills/agent-testing-bot/SKILL.md",
+  "license": "LobeHub Community License",
+  "content_hash": "4a17aee28bb4d756e14a81029d687c776f325566638b954ce7b0f8f977c95a9c"
+}

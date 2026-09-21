@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Universal Design Suite CLI Launcher for impeccable
+# Automatically delegates to local binary or npx fallback
+
+if command -v impeccable >/dev/null 2>&1; then
+    exec impeccable ""
+else
+    exec npx -y impeccable ""
+fi

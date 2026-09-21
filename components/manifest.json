@@ -1,0 +1,15 @@
+{
+  "total_component_suites": 10,
+  "suites": [
+    "charts",
+    "command-ui",
+    "dark-mode",
+    "dashboard-shell",
+    "empty-states",
+    "forms",
+    "loading-states",
+    "sidebar",
+    "stats-cards",
+    "tables"
+  ]
+}
