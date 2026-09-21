@@ -33,7 +33,7 @@ npx universal-design-suite@latest install --all
 Or clone and install locally:
 
 ```bash
-git clone https://github.com/shehamar70-design/universal-design-suite.git
+git clone https://github.com/amar175329-web/universal-design-suite.git
 cd universal-design-suite
 node install.mjs --all
 ```
