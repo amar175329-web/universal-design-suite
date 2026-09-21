@@ -8,8 +8,16 @@ const __dirname = path.dirname(__filename);
 
 const args = process.argv.slice(2);
 const isAll = args.includes('--all') || args.length === 0;
-const targetArg = args.find(a => a.startsWith('--target='));
-const customTarget = targetArg ? targetArg.split('=')[1] : null;
+let customTarget = null;
+const targetEq = args.find(a => a.startsWith('--target='));
+if (targetEq) {
+  customTarget = targetEq.split('=')[1];
+} else {
+  const targetIdx = args.indexOf('--target');
+  if (targetIdx !== -1 && args[targetIdx + 1]) {
+    customTarget = args[targetIdx + 1];
+  }
+}
 
 console.log('====================================================');
 console.log('  UNIVERSAL DESIGN SUITE - AUTONOMOUS INSTALLER     ');
