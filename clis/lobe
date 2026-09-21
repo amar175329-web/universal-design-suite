@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # Universal Design Suite CLI Launcher for lobe
-# Automatically delegates to local binary or npx fallback
-
-if command -v lobe >/dev/null 2>&1; then
-    exec lobe ""
+if [ -x "/home/ubuntu/snap/antigravity-cli/common/nodejs/bin/lobe" ]; then
+    exec "/home/ubuntu/snap/antigravity-cli/common/nodejs/bin/lobe" ""
+elif [ -x "/home/ubuntu/snap/antigravity-cli/common/local/lib/node_modules/@lobehub/cli/dist/index.js" ]; then
+    exec "/home/ubuntu/snap/antigravity-cli/common/local/lib/node_modules/@lobehub/cli/dist/index.js" ""
 else
     exec npx -y @lobehub/cli ""
 fi

@@ -115,12 +115,14 @@ if (isAll || args.includes('--clis')) {
       const srcFile = path.join(clisSrc, file);
       const destFile = path.join(binTarget, file);
       try {
-        fs.cpSync(srcFile, destFile, { force: true });
-        fs.chmodSync(destFile, 0o755);
+        if (customTarget || !fs.existsSync(destFile)) {
+          fs.cpSync(srcFile, destFile, { force: true });
+          fs.chmodSync(destFile, 0o755);
+        }
         installedClisCount++;
       } catch (e) {}
     }
-    console.log(`[SUCCESS] Installed ${installedClisCount} CLI launchers into ${binTarget}.`);
+    console.log(`[SUCCESS] Verified/Installed ${installedClisCount} CLI launchers into ${binTarget}.`);
   }
 }
 
